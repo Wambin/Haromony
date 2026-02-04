@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "rentRoomList",
+      "pageSourceFile": "src/main/ets/pages/RentRoom/RentRoomList.ets",
+      "buildFunction": "RoomListBuilder",
+      "data": {
+        "description" : "this is PageOne"
+      }
+    }
+  ]
+}
